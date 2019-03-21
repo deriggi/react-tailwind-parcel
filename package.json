@@ -1,7 +1,7 @@
 {
-  "name": "hyperapp-tailwind-parcel",
+  "name": "react-tailwind-parcel",
   "version": "1.0.0",
-  "description": "## A Stack for 🚀 front-end design/developpement in 2019.",
+  "description": "React with tailwind and parcel",
   "main": "index.js",
   "scripts": {
     "start": "serve ./dist --single",
@@ -27,3 +27,11 @@
   },
   "author": ""
 }
+
+
+
+git init
+
+git commit -m "first commit"
+git remote add origin git@github.com:deriggi/react-tailwind-parcel.git
+git push -u origin master
