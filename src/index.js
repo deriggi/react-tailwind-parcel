@@ -8,7 +8,7 @@ const Index = () => {
     <img className="block h-16 sm:h-24 rounded-full mx-auto mb-4 sm:mb-0 sm:mr-4 sm:ml-0" src="https://avatars2.githubusercontent.com/u/4323180?s=400&u=4962a4441fae9fba5f0f86456c6c506a21ffca4f&v=4" alt=""/>
     <div className="text-center sm:text-left sm:flex-grow">
       <div className="mb-4">
-        <p className="text-xl leading-tight">Adam Wathan</p>
+        <p className="text-xl leading-tight">Adam Jones</p>
         <p className="text-sm leading-tight text-grey-dark">Developer at NothingWorks Inc.</p>
       </div>
       <div>
