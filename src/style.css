@@ -41,6 +41,11 @@
   */
  @tailwind utilities;
 
+ .bg-image{
+     background-image:url('./images/mozambique.jpg');
+     background-repeat: no-repeat;
+  background-size: cover;
+ }
  /**
   * Here you would add any custom utilities you need that don't come out of the
   * box with Tailwind.
